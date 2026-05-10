@@ -1,0 +1,7 @@
+{
+  "script": "server.js",
+  "watch": ["*.js", "config", "controllers", "middleware", "models", "routes", "utils"],
+  "ignore": ["node_modules", "dist"],
+  "ext": "js",
+  "quiet": true
+}
